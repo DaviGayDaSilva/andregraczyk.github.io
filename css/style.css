@@ -1,0 +1,29 @@
+h1 {
+           text-align: center;
+           color: rgb(68, 92, 92);
+       }
+       body {
+        font-family: 'Montserrat', sans-serif;
+        background-color:mintcream;
+        color: rgb(38, 101, 131);
+       }
+       .tit {
+           text-align: center;
+       }
+       #img1 {
+           display: block;
+           margin-right: auto;
+           margin-left: auto;
+       }
+       .button {
+           padding: 15px 30px;
+           border-radius: 4px;
+       }
+       
+       .img2 {
+           border-radius: 10px;
+       }
+       .btn {
+           text-align: center;
+           display:block;
+       }
